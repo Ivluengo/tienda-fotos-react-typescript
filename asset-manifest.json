@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tienda-fotos-react-typescript/static/css/main.5df65478.chunk.css",
+    "main.js": "/tienda-fotos-react-typescript/static/js/main.b40b9bda.chunk.js",
+    "main.js.map": "/tienda-fotos-react-typescript/static/js/main.b40b9bda.chunk.js.map",
+    "runtime-main.js": "/tienda-fotos-react-typescript/static/js/runtime-main.0114c287.js",
+    "runtime-main.js.map": "/tienda-fotos-react-typescript/static/js/runtime-main.0114c287.js.map",
+    "static/js/2.ac7daa46.chunk.js": "/tienda-fotos-react-typescript/static/js/2.ac7daa46.chunk.js",
+    "static/js/2.ac7daa46.chunk.js.map": "/tienda-fotos-react-typescript/static/js/2.ac7daa46.chunk.js.map",
+    "index.html": "/tienda-fotos-react-typescript/index.html",
+    "static/css/main.5df65478.chunk.css.map": "/tienda-fotos-react-typescript/static/css/main.5df65478.chunk.css.map",
+    "static/js/2.ac7daa46.chunk.js.LICENSE.txt": "/tienda-fotos-react-typescript/static/js/2.ac7daa46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0114c287.js",
+    "static/js/2.ac7daa46.chunk.js",
+    "static/css/main.5df65478.chunk.css",
+    "static/js/main.b40b9bda.chunk.js"
+  ]
+}
