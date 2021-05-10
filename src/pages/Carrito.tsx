@@ -24,9 +24,10 @@ const Carrito: React.FC = () => {
                     <div key={foto.id} className={styles.carritoImgItem}>
                         <img src={foto.url} alt={foto.url}/>
                         <h4>Precio: 3.99€</h4>
-                        <button
+                        <i 
+                            className={`fas fa-trash ${styles.basura}`}
                             onClick={() => dispatch({type: 'toggleCarrito', payload: foto.id})}
-                        >-</button>
+                        ></i>
                     </div>
                 ))
                 }

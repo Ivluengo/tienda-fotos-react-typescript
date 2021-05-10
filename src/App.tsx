@@ -24,7 +24,7 @@ const  App: React.FC = () => {
                     {/* Switch hace que solo nos muestre la primera ruta que coincida, no varias */}
                     <Switch>
                         {/* Utilizamos "exact" para decir que solo si escribimos exactamente esta ruta nos leve a ella */}
-                        <Route exact path='/'>
+                        <Route exact path={`${process.env.PUBLIC_URL}/`}>
                             <Home />
                         </Route>
                         <Route path='/home'>
