@@ -5,4 +5,4 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import App from './App';
 
 //Nuestro Router siempre tiene que envolver aquello que queramos que pueda usar Route, Switch, etc.
-ReactDOM.render(<Router><App /></Router>, document.getElementById('root'));
+ReactDOM.render(<Router basename={process.env.PUBLIC_URL}><App /></Router>, document.getElementById('root'));
