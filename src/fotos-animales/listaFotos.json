@@ -1,0 +1,104 @@
+[
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto1.jpg?raw=true",
+        "id": "1",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto2.jpg?raw=true",
+        "id": "2",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto3.jpg?raw=true",
+        "id": "3",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto4.jpg?raw=true",
+        "id": "4",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto5.jpg?raw=true",
+        "id": "5",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto6.jpg?raw=true",
+        "id": "6",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto7.jpg?raw=true",
+        "id": "7",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto8.jpg?raw=true",
+        "id": "8",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto9.jpg?raw=true",
+        "id": "9",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto10.jpg?raw=true",
+        "id": "10",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto11.jpg?raw=true",
+        "id": "11",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto12.jpg?raw=true",
+        "id": "12",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto13.jpg?raw=true",
+        "id": "13",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto14.jpg?raw=true",
+        "id": "14",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto15.jpg?raw=true",
+        "id": "15",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto16.jpg?raw=true",
+        "id": "16",
+        "esFavorita": false,
+        "enCarrito": false
+    },
+    {
+        "url": "https://github.com/Ivluengo/react-tienda-fotos/blob/main/foto17.jpg?raw=true",
+        "id": "17",
+        "esFavorita": false,
+        "enCarrito": false
+    }
+]
